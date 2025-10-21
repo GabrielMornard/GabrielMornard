@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently looking for an internship, in web and mobile development.
+<!--I'm currently looking for an internship, in web and mobile development.-->
 
 
 ## 🌐 Socials:
